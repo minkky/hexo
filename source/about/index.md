@@ -3,7 +3,7 @@ title:
 ---
 # ABOUT
 - Minji Seo
-	- Research Field: Graph embedding/similarity
+	- Research Field: Deep learning-based graph embedding
 	- [Github](https://github.com/minkky/)
 	- [LinkedIn](https://www.linkedin.com/in/minkky/)
 	- [DILab](http://cs.sookmyung.ac.kr/~kylee/dilab/)
@@ -17,7 +17,9 @@ title:
 <br><br>
 
 # PUBLICATION
-- ..
+- Minji Seo, Ki Yong Lee, TBD, Journal .. (to subm)
+- Ki Yong Lee, Minji Seo, Ryong Lee, Min Woo Park, Sang-Hwan Lee, TBD, IEEE .. (to submit)
+- Minji Seo, Ki Yong Lee, "A Weighted Graph Embedding Technique Based on LSTM Autoencoders," Korea Software Congress 2019 (KSC2019), December 2019. (Ack: NRF-2019)
 - Min Ji Seo, Ki Young Lee, "Comparative Analysis of CNN-based Image Embedding Models for
 Image Similarity Measurement," Korea Computer Congress 2019 (KCC2019), June 28, 2019. (Ack: IITP-2019)
 - Ki Yong Lee, Minji Seo, Ryong Lee, Min Woo Park, Sang-Hwan Lee, "An Efficient Method for Processing Spatio-Temporal Joins," The Journal of KIISE, vol. 46, no. 1, pp. 86-96, January 2019. (Ack: KISTI-2018)
