@@ -12,14 +12,18 @@ title:
 # EDUCATION
 - <b>2018.03 - now</b>: M.S in Sookmyung Women's University, Data Intelligence Lab
 - <b>2017.08 - 2018.02</b>: Undergraduate researcher at Sookmyung Women's University, DKE Lab
-    (Data Knowledge and Engineering Lab -> Data Intelligence Lab)
+    (Data Knowledge and Engineering Lab, now Data Intelligence Lab)
 - <b>2014.03 - 2018.02</b>: B.S in Sookmyung Women's University, Computer Science
 <br><br>
 
 # PUBLICATION
-- Minji Seo, Ki Yong Lee, TBD, Journal .. (to subm)
-- Ki Yong Lee, Minji Seo, Ryong Lee, Min Woo Park, Sang-Hwan Lee, TBD, IEEE .. (to submit)
-- Minji Seo, Ki Yong Lee, "A Weighted Graph Embedding Technique Based on LSTM Autoencoders," Korea Software Congress 2019 (KSC2019), December 2019. (Ack: NRF-2019)
+- Ki Yong Lee, Minji Seo, "A Graph Embedding Technique for Weighted Graphs Based on LSTM Autoencoders", In Proceedings of the Journal of Information Processing Systems 
+- Minji Seo, Ki Young Lee, “A Graph Embedding Technqiue with LSTM Autoencoders for Weighted Graphs,” World IT Congress 2020 Jeju
+- Ki Young Lee, Minji Seo, “Efficient Processing of Spatio-Temporal Joins for IoT Data,” World IT Congress 2020 Jeju
+- Minji Seo, Ki Young Lee, “An Embedding Technique for Weighted Graphs using LSTM Autoencoders” In Proceedings of The Journal of KIISE(JOK)
+- Ki Yong Lee, Minji Seo, Ryong Lee*, Min Woo Park, Sang-Hwan Lee, "An Efficient Method for Processing Spatio-Temporal Joins on IoT Data," IEEE Access, (to submit)
+- Yu-Jeong Yang, Minji Seo, Jooyeon Lee, Ki Yong Lee, "Development of a Data Provenance Management and Search System," Korea Software Congress 2019 (KSC2019), December 2019. (Ack: IITP-2019)
+- Minji Seo, Ki Young Lee, "A Weighted Graph Embedding Technique Based on LSTM Autoencoders," Korean Software Conference 2019 (KSC 2019) Dec 18, 2019. (Ack: NRF)
 - Min Ji Seo, Ki Young Lee, "Comparative Analysis of CNN-based Image Embedding Models for
 Image Similarity Measurement," Korea Computer Congress 2019 (KCC2019), June 28, 2019. (Ack: IITP-2019)
 - Ki Yong Lee, Minji Seo, Ryong Lee, Min Woo Park, Sang-Hwan Lee, "An Efficient Method for Processing Spatio-Temporal Joins," The Journal of KIISE, vol. 46, no. 1, pp. 86-96, January 2019. (Ack: KISTI-2018)
@@ -47,7 +51,7 @@ Image Similarity Measurement," Korea Computer Congress 2019 (KCC2019), June 28, 
 
 # EDUCATIONAL EXPERIENCE
 ## - TA (Teaching Assistant)
-- <b>2019-2</b> (2019. 09 - <b>now</b>)
+- <b>2019-2</b> (2019. 09 - 2019.12)
 	- 컴퓨터그래픽스 COMPUTER GRAPHICS (001, 002)
 - <b>2019-1</b> (2019. 03 - 2019. 06)
 	- 데이터사이언스개론 INTRODUCTION TO DATA SCIENCE (001)
